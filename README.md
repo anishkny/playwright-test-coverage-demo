@@ -4,6 +4,8 @@
 
 Demonstrates usage of [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage) - a [Playwright](https://playwright.dev) extension that collects code coverage from running end-to-end tests.
 
+Read more in this [blog post](https://dev.to/anishkny/code-coverage-for-a-nextjs-app-using-playwright-tests-18n7).
+
 ## Usage
 
 ```bash
