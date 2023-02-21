@@ -6,15 +6,15 @@
     "test": "start-server-and-test 3000 test:only"
   },
   "dependencies": {
-    "next": "^11.1.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@playwright/test": "^1.14.1",
-    "babel-plugin-istanbul": "^6.0.0",
+    "@playwright/test": "^1.31.0",
+    "babel-plugin-istanbul": "^6.1.1",
     "nyc": "^15.1.0",
-    "playwright-test-coverage": "0.0.4",
-    "start-server-and-test": "^1.14.0"
+    "playwright-test-coverage": "1.2.8",
+    "start-server-and-test": "^1.15.4"
   }
 }
