@@ -15,6 +15,6 @@
     "babel-plugin-istanbul": "^6.1.1",
     "nyc": "^15.1.0",
     "playwright-test-coverage": "1.2.9",
-    "start-server-and-test": "^1.15.4"
+    "start-server-and-test": "^2.0.0"
   }
 }
