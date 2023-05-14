@@ -6,12 +6,12 @@
     "test": "start-server-and-test 3000 test:only"
   },
   "dependencies": {
-    "next": "^13.3.0",
+    "next": "^13.4.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@playwright/test": "^1.32.3",
+    "@playwright/test": "^1.33.0",
     "babel-plugin-istanbul": "^6.1.1",
     "nyc": "^15.1.0",
     "playwright-test-coverage": "1.2.12",
