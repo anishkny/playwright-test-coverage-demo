@@ -19,3 +19,8 @@ jobs:
         uses: coverallsapp/github-action@master
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Archive coverage folder
+        uses: actions/upload-artifact@v3
+        with:
+          name: coverage
+          path: coverage/
