@@ -6,7 +6,7 @@
     "test": "start-server-and-test 3000 test:only"
   },
   "dependencies": {
-    "next": "^13.4.19",
+    "next": "^13.5.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -15,6 +15,6 @@
     "babel-plugin-istanbul": "^6.1.1",
     "nyc": "^15.1.0",
     "playwright-test-coverage": "1.2.12",
-    "start-server-and-test": "^2.0.0"
+    "start-server-and-test": "^2.0.1"
   }
 }
