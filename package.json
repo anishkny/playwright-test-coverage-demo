@@ -6,7 +6,7 @@
     "test": "start-server-and-test 3000 test:only"
   },
   "dependencies": {
-    "next": "^13.5.3",
+    "next": "^13.5.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
